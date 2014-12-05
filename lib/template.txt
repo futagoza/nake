@@ -1,0 +1,26 @@
+(function(){
+  
+  function define ( key, value ) {
+    if ( typeof key === 'string' ) {
+      __nakefile.scope[key] = arguments.length !== 1 ? value : 1;
+    }
+  }
+  
+  function task ( name, method ) {
+    if ( typeof method !== 'function' ) {
+      throw new Error("object passed as second argument for task '" + name + "' must be a function!");
+    }
+    module.exports[name] = method;
+  }
+  
+  function option ( key, value ) {
+    return __nakefile.options.args[name] = __nakefile.options.args[name] || value;
+  }
+  
+  with ( __nakefile.scope ) {
+    
+    __NAKEFILE__
+    
+  }
+  
+}).call(module.exports);
