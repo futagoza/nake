@@ -1,6 +1,6 @@
 {
   "name": "teamnora.nake",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node.js based make like program",
   "keywords": [
     "nake",

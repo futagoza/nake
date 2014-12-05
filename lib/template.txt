@@ -14,7 +14,7 @@
   }
   
   function option ( key, value ) {
-    return __nakefile.options.args[name] = __nakefile.options.args[name] || value;
+    return __nakefile.options.args[key] = __nakefile.options.args[key] || value;
   }
   
   with ( __nakefile.scope ) {
