@@ -1,0 +1,1 @@
+{"name":"Nake","tagline":"Node.js based make like program","body":"install\r\n=======\r\n\r\n    npm install -g teamnora.nake\r\n\r\nhelp\r\n====\r\n\r\n    nake -h","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
