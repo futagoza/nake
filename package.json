@@ -1,0 +1,39 @@
+{
+  "name": "teamnora.nake",
+  "version": "0.0.0",
+  "description": "Node.js based make like program",
+  "keywords": [
+    "nake",
+    "make",
+    "node",
+    "build",
+    "clean",
+    "task",
+    "cli",
+    "cake",
+    "plugins",
+    "modules"
+  ],
+  "homepage": "https://teamnora.github.io/nake",
+  "author": {
+    "name": "Futago-za Ryuu",
+    "email": "futagoza.ryuu@gmail.com",
+    "url": "https://futagoza.github.io/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teamnora/nake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teamnora/nake/issues"
+  },
+  
+  "main": "lib/nake.js",
+  "bin": {
+    "nake": "bin/nake"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
