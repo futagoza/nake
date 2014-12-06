@@ -1,0 +1,7 @@
+{
+  "discription": "ncdb - nake's concat dist builder",
+  "private": true,
+  "nake": {
+    "plugin": "nake-plugin.js"
+  }
+}

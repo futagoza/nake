@@ -1,4 +1,4 @@
-include("src-builder")
+include("ncdb")
 include("shelljs");
 
 task('test', function(){

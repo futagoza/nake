@@ -1,0 +1,11 @@
+{
+  "versioned-filename": true,
+  "version": "0.0.1",
+  "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
+  "homepage": "https://cx-lang.io/",
+  "license": "The MIT License (MIT) - http://opensource.org/licenses/MIT",
+  "minify": true,
+  "include": {
+    "cm/utils": "extra/random/cm/utils"
+  }
+}
