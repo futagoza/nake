@@ -1,0 +1,6 @@
+{
+  "nake": {
+    "main": false,
+    "plugin": "nake-plugin.js"
+  }
+}
