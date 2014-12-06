@@ -1,5 +1,6 @@
 include("src-builder")
+include("shelljs");
 
 task('test', function(){
-  console.log('hello from nake test')
+  echo('hello from nake test')
 })

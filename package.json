@@ -38,6 +38,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "coffee-script": "1.8.0"
+    "coffee-script": "1.8.0",
+    "shelljs": "0.3.0"
   }
 }
